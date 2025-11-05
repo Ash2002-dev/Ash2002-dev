@@ -1,4 +1,6 @@
 # Introduction
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
+
 -	Hello, I am Ashish Halijol
 -	I’m interested in Data Science & Analytics
 -	Working as Data Analyst at TagID solutions
