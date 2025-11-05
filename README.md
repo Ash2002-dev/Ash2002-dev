@@ -1,5 +1,5 @@
 # Introduction
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="800"/>
 
 -	Hello, I am Ashish Halijol
 -	I’m interested in Data Science & Analytics
